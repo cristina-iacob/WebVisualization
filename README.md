@@ -1,5 +1,6 @@
 
-# The project can be view at website: https://cristina-iacob.github.io/WebVisualization/
+# The project can be seen at the website: <br>
+https://cristina-iacob.github.io/WebVisualization/
 _________________________________________________________
 
 # Unit 11 | Assignment - Web Visualization Dashboard (Latitude)
